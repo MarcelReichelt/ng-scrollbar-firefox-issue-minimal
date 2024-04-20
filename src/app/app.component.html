@@ -1,10 +1,14 @@
 <div class="container-class">
-  <div class="list-class">
-    @for(item of items; track item){
-      <div class="item-class">
-        <span>item {{item}}</span>
-        <i class="fa-regular fa-face-smile"></i>
+  <div style="height: 150px; width: 150px;">
+    <ng-scrollbar class="scrollbar-class">
+      <div class="list-class">
+        @for(item of items; track item){
+        <div class="item-class">
+          <span>item {{item}}</span>
+          <i class="fa-regular fa-face-smile"></i>
+        </div>
+        }
       </div>
-    }
+    </ng-scrollbar>
   </div>
 </div>
