@@ -1,6 +1,6 @@
 # NgScrollbarFirefoxIssueMinimal
 
-This project was created to reproduce an issue with ngx-scrollbar and fontawesome (see [here](https://github.com/MurhafSousli/ngx-scrollbar/issues/558)). 
+This project was created to reproduce an issue with ngx-scrollbar and fontawesome (see [here](https://github.com/MurhafSousli/ngx-scrollbar/issues/581)). 
 
 [Stackblitz](https://stackblitz.com/~/github.com/MarcelReichelt/ng-scrollbar-firefox-issue-minimal)
 
